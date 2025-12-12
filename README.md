@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielsandes.tech/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-sandes-9758a6386/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvasandes)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que eu uso no meu dia
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
