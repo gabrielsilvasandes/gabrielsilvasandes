@@ -14,4 +14,4 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white)
+![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-A4E65E?style=for-the-badge&logo=affinityphoto&logoColor=000000)
