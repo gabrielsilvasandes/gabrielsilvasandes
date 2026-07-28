@@ -2,12 +2,6 @@
 
 🎓 Estudante de Tecnologia da Informação, atualmente cursando o 2º módulo do curso Técnico em Informática.
 
-🌐 Tenho foco em **Desenvolvimento Web**, estudando tecnologias de frontend e backend para criação de aplicações modernas, funcionais e integradas a bancos de dados.
-
-💻 Minha formação técnica também abrange sistemas operacionais, redes, bancos de dados, suporte em informática e programação, proporcionando uma base ampla sobre o funcionamento dos sistemas e da infraestrutura por trás das aplicações.
-
-📚 Atualmente estou aprofundando meus conhecimentos em **JavaScript, React.js, Node.js, desenvolvimento de aplicações web e bancos de dados**.
-
 ## 🔗 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-sandes-9758a6386/)
@@ -17,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## ⚙️ Backend
 
@@ -34,12 +28,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Projetos
-
-Estou desenvolvendo projetos voltados para **Desenvolvimento Web Full Stack**, aplicando na prática conceitos de frontend, backend, APIs e bancos de dados.
-
-Meu objetivo é construir aplicações que resolvam problemas reais e demonstrem não apenas conhecimento das tecnologias, mas também organização de código, modelagem de dados e desenvolvimento de soluções completas.
-
 ---
 
-🎯 Foco em **Desenvolvimento Web Full Stack**, atualmente construindo minha base com **JavaScript, React.js, Node.js e SQL**.
+🎯 Foco em **Desenvolvimento Web Full Stack**
