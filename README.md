@@ -1,20 +1,58 @@
-### Olá! Eu sou o Gabriel Sandes 👋🏻
+# Olá! Eu sou o Gabriel Sandes 👋🏻
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-sandes-9758a6386/)
+🎓 Estudante de Tecnologia da Informação, cursando o 2º módulo do curso Técnico em Informática.
 
-## Tecnologias que eu uso no meu dia
+💻 Tenho interesse em Suporte de TI, Help Desk, manutenção de computadores, sistemas operacionais, redes e desenvolvimento de software.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+🛠️ Possuo experiência prática com formatação de computadores, instalação e configuração do Windows, drivers e softwares, diagnóstico de problemas de hardware e software e suporte ao usuário.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+📚 Atualmente estou aprofundando meus conhecimentos em suporte em informática, redes de computadores, bancos de dados, programação e sistemas embarcados.
 
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+## 🔗 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-sandes-9758a6386/)
+
+## 🖥️ Suporte e Sistemas
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 👨‍💻 Programação
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🗄️ Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🌐 Desenvolvimento Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+## 🔧 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Projetos
+
+Estou desenvolvendo projetos voltados a suporte, infraestrutura e programação para aplicar na prática os conhecimentos adquiridos durante minha formação.
+
+Entre os projetos do meu portfólio:
+
+- 🖥️ **HelpDesk Lab** — laboratório simulando o ambiente de TI de uma empresa
+- 🛠️ **WinSupport Toolkit** — ferramentas e scripts para diagnóstico e suporte no Windows
+- 🎫 **TechDesk** — sistema para gerenciamento de chamados de TI
+- 📚 **IT Knowledge Base** — documentação de procedimentos, troubleshooting e soluções técnicas
+
+---
+
+📍 Em busca da minha primeira oportunidade profissional em **Suporte de TI, Help Desk, Manutenção de Computadores ou Auxiliar de Informática**.
